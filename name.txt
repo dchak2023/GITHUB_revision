@@ -1,6 +1,0 @@
-This is a test file.
-
-I am revising GIT and GITHUB as they are the most important concept.
-
-Regards,
-// Devjoy C.
